@@ -48,6 +48,14 @@ I do researches on `Anti-reversing techniques` and `Software Security`.
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 # contacts
-- mail: security@kaist.ac.kr
-- blog: [👾](https://cyalume.tistory.com/?page=1)
-- twitter: [@cyalum3](https://twitter.com/cyalum3)
+<a href="mailto:security@kaist.ac.kr">
+  <img src="https://img.shields.io/badge/email: security@kaist.ac.kr-000000?style=flat&logo=Mail.Ru&logoColor=7F00FF"/>
+</a>
+<br>
+<a href="https://cyalume.tistory.com/">
+  <img src="https://img.shields.io/badge/blog: cyalume.tistory.com-000000?style=flat&logo=Tistory&logoColor=7F00FF"/>
+</a>
+<br>
+<a href="https://twitter.com/cyalum3">
+  <img src="https://img.shields.io/badge/twitter: twitter.com/cyalum3-000000?style=flat&logo=Twitter&logoColor=7F00FF"/>
+</a>
