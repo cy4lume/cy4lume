@@ -24,7 +24,10 @@ I do researches on `Anti-reversing techniques` and `Software Security`.
 - Quantum computing & Quantum cryptography
 - Stuffs like 3D modeling, electronics, mechanics 
 
-# My projects 👾
+# Projects 👾
+<details>
+  <summary>View my projects!</summary>
+  
 | Project name                                                | Period                       | Members                                      | Organization                                 | Details                                                                                                                                         |
 |-------------------------------------------------------------|------------------------------|----------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | [T3N4CI0US CTF 2022](https://ctftime.org/event/1575/)                                          | March, 2022                  |                                              | CYB3R T3N4CI0US                              | made 2 rev challs: [an old book](https://github.com/cy4lume/2022-Basic-CTF-rev/tree/main/an%20old%20book), [BabyEquation](https://github.com/cy4lume/2022-Basic-CTF-rev/tree/main/BabyEquation)                                                                                                    |
@@ -41,11 +44,13 @@ I do researches on `Anti-reversing techniques` and `Software Security`.
 | [ESCAPE CTF 2023 Preliminary](https://ctftime.org/event/2022)                                 | August, 2023                 |                                              | CYB3R T3N4CI0US                              | made 2 rev cahlls: Smartest Captive, KeyCheck                                                                                                   |
 | [Report: Implementation and Vulnerabilities of QKD Algorithm](https://cyalume.tistory.com/58) | August, 2023                 | cy4lume                                      |                                              | implemented the BB84 Protocol in C & Python, wrote a report on potential vulnerabilities arising during the implementation of this QKD protocol |
 | [ESCAPE CTF 2023 Final](https://ctftime.org/event/2213/)                                       | February, 2024               |                                              | CYB3R T3N4CI0US                              | made 3 rev challs: rev1, rev2, rev4                                                                                                             |
+</details>
 
-# I usually use...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cy4lume&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+# Here's my github history
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cy4lume&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![cyalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=cy4lume&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 # contacts
 <a href="mailto:security@kaist.ac.kr">
