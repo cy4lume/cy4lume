@@ -7,7 +7,8 @@ I do researches on `Anti-reversing techniques` and `Software Security`.
 
 # Education
 - WJGH 72 (2021\~2023)
-- KAIST 24, School of Freshman (2024\~)
+- KAIST 24, School of Freshman (2024\~2025)
+- KAIST 24, School of Computing (2025\~)
 
 # I do
 - Reverse Engineering on various Softwares
@@ -22,7 +23,8 @@ I do researches on `Anti-reversing techniques` and `Software Security`.
 - System Hacking (aka Pwn)
 - Computer Architecture & Low level language
 - Quantum computing & Quantum cryptography
-- Stuffs like 3D modeling, electronics, mechanics 
+- Stuffs like 3D modeling, electronics, mechanics
+- Universal Design
 
 # Projects 👾
 <details>
